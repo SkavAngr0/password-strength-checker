@@ -14,6 +14,21 @@ How to Run
 2. Run `python checker.py`
 3. Enter a password when prompted
 
+Demo
+
+**Weak Password**
+
+![Weak](assets/weak.PNG)
+
+**Strong Password**
+
+![Strong](assets/strong.PNG)
+
+**Common Password**
+
+![Common](assets/common.PNG)
+
+
 What I Learned
 - Structuring Python code using functions
 - File handling and exception management
